@@ -395,3 +395,13 @@
 .jus{
     text-align: justify;
 }
+
+.showTh-animation .left-slide-box .buttonBig a {
+    text-align: center;
+    top: 17px;
+}
+.formTable tr td:nth-child(2){
+    font-weight: bold;
+ 
+}
+ 
